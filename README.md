@@ -9,7 +9,7 @@ Rather than relying on a single default setting, I systematically evaluated how 
 ## Dataset
 10x Genomics PBMC 3k
 ; Healthy donor peripheral blood mononuclear cells (scRNA-seq)
-(pbmc3k/filtered_gene_bc_matrices/hg19)
+#### (pbmc3k/filtered_gene_bc_matrices/hg19)
 
 ## Tools & Environment
 - R
